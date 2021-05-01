@@ -4,6 +4,7 @@ Siv3D(siv6) で動画ファイルをアーカイブして読み込む方法を�
 ## 検証
 
 このレポジトリでは以下の項目を実装、検証しています。
+コードはすべて `Main.cpp` ( [リンク](https://github.com/usagiga/siv3d-video-archive/blob/main/siv3d-video-archive/Main.cpp) )に固まってるのでそれを読んで下さい。
 
 1. [Siv3D (siv6) のアーカイブファイルの仕様](./docs/01-spec-archive-file.md)
 2. [Siv3D (siv6) のアーカイブファイルに入っている動画を再生する](./docs/02-video-from-archive.md)

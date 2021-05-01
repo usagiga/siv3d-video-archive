@@ -15,8 +15,12 @@
 
 ## コード・実行例
 
-コードを読みたい場合は `/siv3d-video-archive/Main.cpp` を見てください。
+コードを読みたい場合は `/siv3d-video-archive/Main.cpp` ( [リンク](https://github.com/usagiga/siv3d-video-archive/blob/main/siv3d-video-archive/Main.cpp) )を見てください。
 実行する場合は、 `/siv3d-video-archive.sln` を開いてデバッグして実行してください。
 
 なお、ゲーム実行中は `%TEMP%/siv3d-video-archive` に良い感じにファイルが保存され、終了すると削除されるので
 動作を目で見てみるのもよいでしょう。
+
+## おわりに
+
+もっといい方法があったら教えてください。
