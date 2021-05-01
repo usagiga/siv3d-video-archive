@@ -14,7 +14,7 @@ VS2019でのセットアップに関しては [公式ドキュメント](https:/
 ## 検証
 
 1. [Siv3D (siv6) のアーカイブファイルの仕様](./docs/01-spec-archive-file.md)
-2. Siv3D (siv6) のアーカイブファイルに入っている動画を再生する
+2. [Siv3D (siv6) のアーカイブファイルに入っている動画を再生する](./docs/02-video-from-archive.md)
 
 ## LICENSE
 MIT
